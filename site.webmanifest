@@ -1,0 +1,49 @@
+{
+  "name": "Sugon Search — Documentation",
+  "short_name": "Sugon Search",
+  "description": "Sugon Search documentation and getting started guide: parallel search, prompt templates, URL stock, and Quick Chat.",
+  "start_url": "https://sugon.fun/",
+  "id": "https://sugon.fun/",
+  "scope": "https://sugon.fun/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "lang": "en",
+  "background_color": "#0d0d0e",
+  "theme_color": "#0d0d0e",
+  "icons": [
+    {
+      "src": "https://sugon.fun/icon-16.png",
+      "sizes": "16x16",
+      "type": "image/png"
+    },
+    {
+      "src": "https://sugon.fun/icon-32.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "https://sugon.fun/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://sugon.fun/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://sugon.fun/icon-512-maskable.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "https://sugon.fun/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
